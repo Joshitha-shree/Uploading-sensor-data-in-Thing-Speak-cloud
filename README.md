@@ -71,10 +71,17 @@ Automatically act on your data and communicate using third-party services like T
 
 
 # PROGRAM:
+![exp 3 pro](https://github.com/user-attachments/assets/bc236d5c-088a-4050-b740-1fa17c315689)
+
 
 # CIRCUIT DIAGRAM:
+![exp 3 cir](https://github.com/user-attachments/assets/f6a7e9e0-aedc-49dd-8566-063bd5fb2775)
+
+
 
 # OUTPUT:
+![exp 3 out](https://github.com/user-attachments/assets/dba45522-09a1-459e-8449-f1e32e23ea6a)
+
 
 # RESULT:
 
